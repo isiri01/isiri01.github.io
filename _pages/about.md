@@ -15,8 +15,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello everyone! I'm Isiri , a third year undergraduate at University of Moratuwa studying Biomedical Engineering. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work as a mentor and a content creator at [RoboticGen Academy](https://roboticgenacademy.com/)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an active member at University of Moratuwa IEEE EMBS Student Branch.
+
+My passionate lies in the fields of medical imaging, computer vision and I am looking forward to explore the fascinating realm of computational neuroscience.
+
+In my free time I like to watch movies specially phsychological thrillers. 
+
+
