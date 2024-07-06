@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - isiri01
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - isiri01/Early-Diabetic-Foot-Ulcer-Detection-using-Thermograms
+  - isiri01/Smart-Medibox 
+  - isiri01/Automated_Saline_Pump 
+  - isiri01/Analog-ECG-Heart-Monitor
+  - isiri01/Measure-Up 
+  - isiri01/Anemia-prediction
+  - isiri01/BM2102---Modelling-and-Analysis-of-Physiological-Systems
