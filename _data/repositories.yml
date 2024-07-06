@@ -1,7 +1,6 @@
 github_users:
   - isiri01
 
-repo_description_lines_max: 2
 
 github_repos:
   - isiri01/Early-Diabetic-Foot-Ulcer-Detection-using-Thermograms
