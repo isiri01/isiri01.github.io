@@ -21,7 +21,7 @@ I am currently working as a mentor and content creator at [RoboticGen Academy](h
 
 In addition, I am an active member of the University of Moratuwa IEEE EMBS Student Branch. And also I am an inducted member at the Rotaract Club of University of Moratuwa.
 
-My passions lie in the fields of medical imaging and computer vision. Additionally, I have recently developed an interest in computational neuroscience and am eager to delve into this intriguing field and learn more about its applications and advancements.
+My passions lie in the fields of medical imaging and bio signal processing. Additionally, I have recently developed an interest in computational neuroscience and am eager to delve into this intriguing field and learn more about its applications and advancements.
 
 In my free time, I like watching movies, specially psychological thrillers. And I enjoy playing piano and singing songs.
 
